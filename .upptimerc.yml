@@ -3,10 +3,6 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
@@ -17,6 +13,7 @@ sites:
       - "Accept: application/vnd.github+json"
       - "Authorization: Bearer ${{ secrets.GH_PAT }}"
       - "X-GitHub-Api-Version: 2022-11-28"
+      - "Content-type: application/json"
   
 
 status-website:
