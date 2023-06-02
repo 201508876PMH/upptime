@@ -14,9 +14,9 @@ sites:
   - name: API endpoint
     url: https://api.github.com/orgs/ORG/actions/runners
     headers:
-      "Accept: application/vnd.github+json" \
-      "Authorization: Bearer ${{ secrets.GH_PAT }}"\
-      "X-GitHub-Api-Version: 2022-11-28" \
+      - "Accept: application/vnd.github+json"
+      - "Authorization: Bearer ${{ secrets.GH_PAT }}"
+      - "X-GitHub-Api-Version: 2022-11-28"
   
 
 status-website:
