@@ -4,10 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: API endpoint
-    url: https://api.github.com/orgs/ORG/actions/runners
+    url: https://api.github.com/orgs/201508876PMH/actions/runners
     headers:
-      - "Accept: application/vnd.github+json"
-      - "Authorization: Bearer ${{ secrets.GH_PAT }}"
+      - "Authorization: Bearer ${{ secrets.GH_PAT_AP_BOT }}"
       - "X-GitHub-Api-Version: 2022-11-28"
       - "Content-type: application/json"
   
