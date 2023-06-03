@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.github.com.ico",
     "slug": "action-runners",
     "status": "down",
-    "uptime": "4.79%",
-    "uptimeDay": "4.79%",
-    "uptimeWeek": "4.79%",
-    "uptimeMonth": "4.79%",
-    "uptimeYear": "4.79%",
-    "time": 53,
-    "timeDay": 53,
-    "timeWeek": 53,
-    "timeMonth": 53,
-    "timeYear": 53,
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 46,
+    "timeDay": 46,
+    "timeWeek": 46,
+    "timeMonth": 46,
+    "timeYear": 46,
     "dailyMinutesDown": {
-      "2023-06-03": 0
+      "2023-06-03": 23
     }
   }
 ]
