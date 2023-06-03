@@ -8,7 +8,7 @@ sites:
     headers:
       - "Authorization: Bearer ${{ secrets.GH_PAT_AP_BOT }}"
       - "X-GitHub-Api-Version: 2022-11-28"
-      - "Content-type: application/json"
+      - "Accept: application/vnd.github+json"
   
 
 status-website:
