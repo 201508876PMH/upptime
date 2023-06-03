@@ -1,7 +1,7 @@
 [
   {
     "name": "API endpoint",
-    "url": "https://api.github.com/orgs/ORG/actions/runners",
+    "url": "https://api.github.com/orgs/201508876PMH/actions/runners",
     "icon": "https://icons.duckduckgo.com/ip3/api.github.com.ico",
     "slug": "api-endpoint",
     "status": "down",
@@ -11,12 +11,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 130,
-    "timeDay": 138,
+    "timeDay": 136,
     "timeWeek": 130,
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2023-06-03": 1366,
+      "2023-06-03": 1378,
       "2023-06-02": 721
     }
   }
