@@ -1,7 +1,7 @@
 [
   {
     "name": "API endpoint",
-    "url": "https://api.github.com/orgs/201508876PMH/actions/runners",
+    "url": "https://api.github.com/repos/201508876PMH/trade-bot/actions/runners",
     "icon": "https://icons.duckduckgo.com/ip3/api.github.com.ico",
     "slug": "api-endpoint",
     "status": "down",
@@ -10,13 +10,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 130,
-    "timeDay": 136,
-    "timeWeek": 130,
-    "timeMonth": 130,
-    "timeYear": 130,
+    "time": 135,
+    "timeDay": 138,
+    "timeWeek": 135,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-06-03": 1378,
+      "2023-06-03": 1391,
       "2023-06-02": 721
     }
   }
