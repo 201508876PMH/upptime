@@ -5,18 +5,18 @@
     "icon": "https://static-00.iconduck.com/assets.00/unraid-icon-1024x1024-byszif0v.png",
     "slug": "tower",
     "status": "down",
-    "uptime": "5.54%",
-    "uptimeDay": "5.54%",
-    "uptimeWeek": "5.54%",
-    "uptimeMonth": "5.54%",
-    "uptimeYear": "5.54%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-10": 0
+      "2024-03-10": 136
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ap-bot.pmh-unraid.dk.ico",
     "slug": "tower-bot",
     "status": "down",
-    "uptime": "8.35%",
-    "uptimeDay": "8.35%",
-    "uptimeWeek": "8.35%",
-    "uptimeMonth": "8.35%",
-    "uptimeYear": "8.35%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-10": 0
+      "2024-03-10": 136
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex-unraid.dk.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "4.57%",
-    "uptimeDay": "4.57%",
-    "uptimeWeek": "4.57%",
-    "uptimeMonth": "4.57%",
-    "uptimeYear": "4.57%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-10": 0
+      "2024-03-10": 136
     }
   }
 ]
