@@ -19,7 +19,7 @@ sites:
   
 
 status-website:
-  favicon: https://github.com/201508876PMH/upptime/blob/aaab30b036851f50b7aa8a91f3d4b228c58bd2ce/assets/robot.svgg
+  favicon: https://github.com/201508876PMH/upptime/blob/aaab30b036851f50b7aa8a91f3d4b228c58bd2ce/assets/robot.svg
   faviconSvg: https://github.com/201508876PMH/upptime/blob/aaab30b036851f50b7aa8a91f3d4b228c58bd2ce/assets/robot.svg
   theme: light
   baseUrl: /upptime
