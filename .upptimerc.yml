@@ -23,7 +23,7 @@ status-website:
   faviconSvg: https://github.com/201508876PMH/upptime/blob/aaab30b036851f50b7aa8a91f3d4b228c58bd2ce/assets/robot.svg
   theme: light
   baseUrl: /upptime
-  logoUrl: https://github.com/201508876PMH/upptime/blob/aaab30b036851f50b7aa8a91f3d4b228c58bd2ce/assets/robot.svg
+  logoUrl: assets/upptime-icon.svg
   name: AP-BOTs Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
