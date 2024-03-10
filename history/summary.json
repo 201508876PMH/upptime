@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-10": 143
+      "2024-03-10": 153
     }
   },
   {
@@ -25,38 +25,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/ap-bot.pmh-unraid.dk.ico",
     "slug": "tower-bot",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-10": 143
+      "2024-03-10": 153
     }
   },
   {
-    "name": "Plex",
-    "url": "https://plex-unraid.dk",
-    "icon": "https://icons.duckduckgo.com/ip3/plex-unraid.dk.ico",
-    "slug": "plex",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-03-10": 143
-    }
+    "name": "Google",
+    "url": "https://google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
+    "slug": "google",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 115,
+    "timeDay": 107,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 115,
+    "dailyMinutesDown": {}
   }
 ]
