@@ -7,23 +7,25 @@ sites:
     url: https://pmh-unraid.dk
     port: 80
     check: "tcp-ping"
+    ipv6: true
     icon: https://static-00.iconduck.com/assets.00/unraid-icon-1024x1024-byszif0v.png
 
   - name: Tower-bot
     url: https://ap-bot.pmh-unraid.dk
     port: 443
     check: "tcp-ping"
+    ipv6: true
 
   - name: Google
     url: https://google.com
   
 
 status-website:
-  favicon: https://github.com/201508876PMH/upptime/blob/aaab30b036851f50b7aa8a91f3d4b228c58bd2ce/assets/robot.svg
-  faviconSvg: https://github.com/201508876PMH/upptime/blob/aaab30b036851f50b7aa8a91f3d4b228c58bd2ce/assets/robot.svg
+  favicon: assets/robot.svg
+  faviconSvg: assets/robot.svg
   theme: light
   baseUrl: /upptime
-  logoUrl: assets/upptime-icon.svg
+  logoUrl: assets/robot.svg
   name: AP-BOTs Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
