@@ -9,10 +9,12 @@ sites:
 
   - name: Tower-bot
     url: https://ap-bot.pmh-unraid.dk
-    method: GET
+
+  - name: Dozzle
+    url: https://dozzle.pmh-unraid.dk
 
   - name: Google
-    url: https://google.com
+    url: https://google.dk
   
 
 status-website:
