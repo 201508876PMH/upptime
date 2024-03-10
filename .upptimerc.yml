@@ -3,14 +3,18 @@ owner: 201508876PMH # Your GitHub organization or username, where this repositor
 repo: upptime # The name of this repository
 
 sites:
-  - name: Action runners
-    method: GET
-    url: https://api.github.com/repos/201508876PMH/trade-bot/actions/runners
-    headers:
-      - "Accept: application/vnd.github+json"
-      - "Authorization: Bearer ${{ secrets.GH_PAT_AP_BOT }}"
-      - "X-GitHub-Api-Version: 2022-11-28"
+  - name: Tower
+    method: POST
+    url: https://pmh-unraid.dk
+    icon: https://static-00.iconduck.com/assets.00/unraid-icon-1024x1024-byszif0v.png
 
+  - name: Tower-bot
+    method: POST
+    url: https://ap-bot.pmh-unraid.dk
+
+  - name: Plex
+    method: POST
+    url: https://plex-unraid.dk
   
 
 status-website:
