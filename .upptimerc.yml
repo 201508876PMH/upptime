@@ -6,18 +6,20 @@ sites:
   - name: Tower
     url: https://pmh-unraid.dk
     port: 80
+    check: "tcp-ping"
     icon: https://static-00.iconduck.com/assets.00/unraid-icon-1024x1024-byszif0v.png
 
   - name: Tower-bot
     url: https://ap-bot.pmh-unraid.dk
     port: 443
+    check: "tcp-ping"
 
   - name: Google
     url: https://google.com
   
 
 status-website:
-  favicon: https://github.com/201508876PMH/upptime/blob/master/assets/robot.svgg
+  favicon: https://github.com/201508876PMH/upptime/blob/master/assets/robot.svg
   faviconSvg: https://github.com/201508876PMH/upptime/blob/master/assets/robot.svg
   theme: light
   baseUrl: /upptime
