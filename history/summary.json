@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-10": 241
+      "2024-03-10": 257
     }
   },
   {
@@ -36,13 +36,31 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-10": 240
+      "2024-03-10": 257
     }
   },
   {
+    "name": "Dozzle",
+    "url": "https://dozzle.pmh-unraid.dk",
+    "icon": "https://icons.duckduckgo.com/ip3/dozzle.pmh-unraid.dk.ico",
+    "slug": "dozzle",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 696,
+    "timeDay": 696,
+    "timeWeek": 696,
+    "timeMonth": 696,
+    "timeYear": 696,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Google",
-    "url": "https://google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
+    "url": "https://google.dk",
+    "icon": "https://icons.duckduckgo.com/ip3/google.dk.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -50,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 140,
-    "timeWeek": 140,
-    "timeMonth": 140,
-    "timeYear": 131,
+    "time": 137,
+    "timeDay": 149,
+    "timeWeek": 149,
+    "timeMonth": 149,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   }
 ]
