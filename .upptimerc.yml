@@ -5,6 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Tower
     url: https://pmh-unraid.dk
+    method: GET
     icon: https://static-00.iconduck.com/assets.00/unraid-icon-1024x1024-byszif0v.png
 
   - name: Tower-bot
