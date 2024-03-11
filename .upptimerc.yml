@@ -12,7 +12,7 @@ sites:
   
 
 status-website:
-  favicon: https://raw.githubusercontent.com/201508876PMH/upptime/master/assets/robot.svg
+  favicon: https://raw.githubusercontent.com/201508876PMH/upptime/master/assets/robot.png
   faviconSvg: https://raw.githubusercontent.com/201508876PMH/upptime/master/assets/robot.svg
   theme: light
   baseUrl: /upptime
