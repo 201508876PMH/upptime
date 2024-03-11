@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-11": 618,
+      "2024-03-11": 899,
       "2024-03-10": 606
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-11": 618,
+      "2024-03-11": 899,
       "2024-03-10": 606
     }
   },
@@ -46,19 +46,19 @@
     "url": "https://dozzle.pmh-unraid.dk",
     "icon": "https://icons.duckduckgo.com/ip3/dozzle.pmh-unraid.dk.ico",
     "slug": "dozzle",
-    "status": "down",
-    "uptime": "95.71%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "95.71%",
-    "uptimeYear": "95.71%",
-    "time": 588,
-    "timeDay": 588,
-    "timeWeek": 588,
-    "timeMonth": 588,
-    "timeYear": 588,
+    "status": "up",
+    "uptime": "74.13%",
+    "uptimeDay": "74.13%",
+    "uptimeWeek": "74.13%",
+    "uptimeMonth": "74.13%",
+    "uptimeYear": "74.13%",
+    "time": 596,
+    "timeDay": 596,
+    "timeWeek": 596,
+    "timeMonth": 596,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2024-03-11": 0,
+      "2024-03-11": 282,
       "2024-03-10": 41
     }
   },
