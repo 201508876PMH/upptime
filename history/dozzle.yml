@@ -1,7 +1,7 @@
 url: https://dozzle.pmh-unraid.dk
-status: up
-code: 200
-responseTime: 982
-lastUpdated: 2024-03-11T15:01:24.115Z
+status: down
+code: 502
+responseTime: 739
+lastUpdated: 2024-03-11T15:19:36.519Z
 startTime: 2024-03-10T18:10:51.053Z
 generator: Upptime <https://github.com/upptime/upptime>
