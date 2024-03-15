@@ -5,18 +5,18 @@
     "icon": "https://developer.asustor.com/uploadIcons/0020_117518_1660879946_dozzle_256.png",
     "slug": "dozzle",
     "status": "down",
-    "uptime": "95.44%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "95.44%",
-    "uptimeMonth": "95.44%",
-    "uptimeYear": "95.44%",
+    "uptime": "95.17%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "95.17%",
+    "uptimeMonth": "95.17%",
+    "uptimeYear": "95.17%",
     "time": 684,
-    "timeDay": 679,
+    "timeDay": 675,
     "timeWeek": 684,
     "timeMonth": 684,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2024-03-15": 11,
+      "2024-03-15": 31,
       "2024-03-11": 282,
       "2024-03-10": 41
     }
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 262,
+    "time": 275,
+    "timeDay": 264,
     "timeWeek": 278,
     "timeMonth": 278,
-    "timeYear": 274,
+    "timeYear": 275,
     "dailyMinutesDown": {}
   }
 ]
