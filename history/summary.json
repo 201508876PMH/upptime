@@ -6,7 +6,7 @@
     "slug": "dozzle",
     "status": "down",
     "uptime": "98.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.89%",
     "uptimeWeek": "98.79%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "98.45%",
@@ -16,7 +16,7 @@
     "timeMonth": 673,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2024-05-26": 0,
+      "2024-05-26": 2,
       "2024-05-19": 135,
       "2024-05-12": 134,
       "2024-05-05": 137,
