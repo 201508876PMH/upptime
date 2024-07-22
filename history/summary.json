@@ -47,18 +47,19 @@
     "url": "https://google.dk",
     "icon": "https://icons.duckduckgo.com/ip3/google.dk.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 278,
-    "timeDay": 228,
-    "timeWeek": 254,
+    "timeDay": 232,
+    "timeWeek": 255,
     "timeMonth": 268,
     "timeYear": 278,
     "dailyMinutesDown": {
+      "2024-07-22": 1,
       "2024-05-01": 44
     }
   }
