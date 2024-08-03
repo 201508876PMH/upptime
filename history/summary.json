@@ -4,7 +4,7 @@
     "url": "https://dozzle.pmh-unraid.dk",
     "icon": "https://developer.asustor.com/uploadIcons/0020_117518_1660879946_dozzle_256.png",
     "slug": "dozzle",
-    "status": "up",
+    "status": "down",
     "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.81%",
@@ -16,6 +16,7 @@
     "timeMonth": 683,
     "timeYear": 685,
     "dailyMinutesDown": {
+      "2024-08-03": 0,
       "2024-07-28": 120,
       "2024-07-21": 104,
       "2024-07-14": 99,
