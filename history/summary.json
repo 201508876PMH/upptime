@@ -6,12 +6,12 @@
     "slug": "dozzle",
     "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "93.23%",
+    "uptimeDay": "94.40%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "98.51%",
     "time": 680,
-    "timeDay": 600,
+    "timeDay": 606,
     "timeWeek": 637,
     "timeMonth": 657,
     "timeYear": 680,
@@ -74,7 +74,7 @@
     "time": 272,
     "timeDay": 232,
     "timeWeek": 253,
-    "timeMonth": 258,
+    "timeMonth": 257,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2024-05-01": 44
