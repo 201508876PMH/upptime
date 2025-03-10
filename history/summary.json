@@ -16,7 +16,7 @@
     "timeMonth": 19699,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2025-03-10": 1048,
+      "2025-03-10": 1060,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -203,7 +203,7 @@
     "time": 273,
     "timeDay": 261,
     "timeWeek": 320,
-    "timeMonth": 307,
+    "timeMonth": 306,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2024-05-01": 44
