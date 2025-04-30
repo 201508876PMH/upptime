@@ -13,10 +13,10 @@
     "time": 2455,
     "timeDay": 19771,
     "timeWeek": 19669,
-    "timeMonth": 19671,
+    "timeMonth": 19672,
     "timeYear": 2467,
     "dailyMinutesDown": {
-      "2025-04-30": 824,
+      "2025-04-30": 833,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -235,19 +235,18 @@
     "url": "https://google.dk",
     "icon": "https://icons.duckduckgo.com/ip3/google.dk.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 275,
-    "timeDay": 303,
+    "timeDay": 301,
     "timeWeek": 281,
     "timeMonth": 302,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-04-30": 8,
       "2024-05-01": 44
     }
   }
