@@ -16,7 +16,7 @@
     "timeMonth": 19671,
     "timeYear": 2467,
     "dailyMinutesDown": {
-      "2025-04-30": 818,
+      "2025-04-30": 824,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -237,17 +237,17 @@
     "slug": "google",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 275,
     "timeDay": 303,
-    "timeWeek": 280,
+    "timeWeek": 281,
     "timeMonth": 302,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-04-30": 2,
+      "2025-04-30": 8,
       "2024-05-01": 44
     }
   }
