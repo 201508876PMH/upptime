@@ -12,11 +12,11 @@
     "uptimeYear": "47.44%",
     "time": 3073,
     "timeDay": 19628,
-    "timeWeek": 19653,
-    "timeMonth": 19665,
+    "timeWeek": 19652,
+    "timeMonth": 19666,
     "timeYear": 3101,
     "dailyMinutesDown": {
-      "2025-05-10": 516,
+      "2025-05-10": 528,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
@@ -252,7 +252,7 @@
     "uptimeYear": "100.00%",
     "time": 274,
     "timeDay": 275,
-    "timeWeek": 298,
+    "timeWeek": 299,
     "timeMonth": 283,
     "timeYear": 274,
     "dailyMinutesDown": {}
