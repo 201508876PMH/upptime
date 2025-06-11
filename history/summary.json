@@ -13,10 +13,10 @@
     "time": 5455,
     "timeDay": 19613,
     "timeWeek": 19653,
-    "timeMonth": 19661,
+    "timeMonth": 19660,
     "timeYear": 5518,
     "dailyMinutesDown": {
-      "2025-06-11": 467,
+      "2025-06-11": 475,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -280,7 +280,7 @@
     "time": 275,
     "timeDay": 315,
     "timeWeek": 322,
-    "timeMonth": 305,
+    "timeMonth": 304,
     "timeYear": 276,
     "dailyMinutesDown": {}
   }
