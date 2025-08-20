@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.83%",
-    "time": 11434,
-    "timeDay": 19695,
-    "timeWeek": 19683,
+    "uptimeYear": "19.82%",
+    "time": 11436,
+    "timeDay": 19683,
+    "timeWeek": 19682,
     "timeMonth": 19673,
-    "timeYear": 11529,
+    "timeYear": 11531,
     "dailyMinutesDown": {
-      "2025-08-20": 748,
+      "2025-08-20": 787,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
@@ -330,19 +330,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/google.dk.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 362,
+    "timeDay": 361,
     "timeWeek": 384,
     "timeMonth": 367,
     "timeYear": 290,
-    "dailyMinutesDown": {
-      "2025-08-05": 24,
-      "2025-07-08": 57
-    }
+    "dailyMinutesDown": {}
   }
 ]
