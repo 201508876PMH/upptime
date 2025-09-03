@@ -5,7 +5,7 @@
     "icon": "https://developer.asustor.com/uploadIcons/0020_117518_1660879946_dozzle_256.png",
     "slug": "dozzle",
     "status": "down",
-    "uptime": "42.99%",
+    "uptime": "42.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 19703,
     "timeYear": 13002,
     "dailyMinutesDown": {
-      "2025-09-03": 357,
+      "2025-09-03": 387,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
